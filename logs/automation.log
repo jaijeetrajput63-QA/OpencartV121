@@ -1,0 +1,57 @@
+2026-05-31 02:30:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ec0033AU\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2026-05-31 02:30:34 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2026-05-31 02:30:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link 
+2026-05-31 02:30:35 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link 
+2026-05-31 02:30:35 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2026-05-31 02:30:38 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2026-05-31 02:30:38 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+2026-05-31 02:30:41 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2026-05-31 02:30:43 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+2026-05-31 02:34:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ec0033AU\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2026-05-31 02:34:49 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2026-05-31 02:34:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link 
+2026-05-31 02:34:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link 
+2026-05-31 02:34:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2026-05-31 02:34:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2026-05-31 02:34:53 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+2026-05-31 02:35:07 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2026-05-31 02:35:09 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+2026-05-31 02:36:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ec0033AU\eclipse-workspace\OpencartV121\grid-docker.xml
+
+2026-05-31 02:36:59 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2026-05-31 02:36:59 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link 
+2026-05-31 02:37:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link 
+2026-05-31 02:37:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2026-05-31 02:37:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2026-05-31 02:37:02 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+2026-05-31 02:37:05 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2026-05-31 02:37:07 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+2026-05-31 02:37:16 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2026-05-31 02:37:16 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link 
+2026-05-31 02:37:17 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link 
+2026-05-31 02:37:17 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2026-05-31 02:37:19 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2026-05-31 02:37:19 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+2026-05-31 02:37:34 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2026-05-31 02:37:36 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+2026-05-31 13:03:32 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2026-05-31 13:03:32 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link 
+2026-05-31 13:03:32 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link 
+2026-05-31 13:03:32 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2026-05-31 13:03:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2026-05-31 13:03:35 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+2026-05-31 13:03:37 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2026-05-31 13:03:39 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+2026-05-31 13:29:37 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+2026-05-31 13:29:37 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link 
+2026-05-31 13:29:38 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link 
+2026-05-31 13:29:38 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+2026-05-31 13:29:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2026-05-31 13:29:40 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+2026-05-31 13:29:43 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+2026-05-31 13:29:45 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
